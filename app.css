@@ -1,0 +1,56 @@
+body {
+  background-color: #cee5d0;
+}
+.body-center {
+  margin: 0 auto;
+  text-align: center;
+  width: 960px;
+  list-style-position: inside;
+}
+.başlık-1 {
+  font-size: 30px;
+  color: #ea9d6e;
+}
+.başlık-2 ul {
+  list-style-type: none;
+}
+.başlık-2 ul li {
+  margin: 10px;
+  display: inline;
+}
+.başlık-3 {
+  font-size: 25px;
+  background-color: rgba(255, 255, 255, 0.475);
+  color: #94b49f;
+  border-radius: 5px;
+}
+.anasayfa-sarı-bşlk {
+  font-size: 20px;
+  color: #ea9d6e;
+}
+img {
+  margin-top: 5px;
+  width: 300px;
+  height: 300px;
+  border-radius: 10px;
+}
+.resim-açıklama {
+  font-size: 20px;
+  display: column;
+
+  color: #fcf8e8;
+  background-color: #94b49f;
+  border: 1px solid #ea9d6e;
+}
+.hakkimizda {
+  background-color: #ea9e6eb8;
+  border: 2px solid #ffff;
+}
+.hakkımızda-srı-bslk {
+  font-size: 20px;
+  color: rgb(150, 150, 41);
+  text-align: left;
+}
+.hakkımızda-srı-bslk-p {
+  color: rgba(0, 0, 0, 0.331);
+}
